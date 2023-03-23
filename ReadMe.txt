@@ -1,1 +1,1 @@
-https://rajkumar-gajera.netlify.app
+https://gajerarajkumar.netlify.app
